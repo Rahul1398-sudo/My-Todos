@@ -1,0 +1,40 @@
+body{
+  background-color:pink;
+  text-align: ;
+}
+
+.btn-outline-success{
+  color: rgb(21, 21, 29);
+  background-color: rgba(25, 210, 216, 0.918);
+}
+
+.navbar-brand{
+  color: black;
+  background-color: brown;
+  padding: 1rem;
+  border: 5px solid purple
+}
+
+
+ .navbar-brand{
+  background-color: greenyellow;
+  margin-right: 1rem;
+  border: 5px solid rgba(8, 170, 235, 0.822);
+  border-radius: rem;
+
+} 
+
+.collapse navbar-collapse{
+  background-color: blue;
+}
+
+#navbarSupportedContent{
+  background-color:rgba(33, 75, 142, 0.437);
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 5px solid rgba(8, 170, 235, 0.822);
+  border-radius: 5rem;
+} 
+
+
+
